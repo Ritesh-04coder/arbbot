@@ -146,8 +146,8 @@ cd &lt;repo-folder&gt;</code></pre>
   
   <h2><span class="emoji-small">🖼️</span> Screenshots</h2>
   <div class="screenshots">
-    <img src="images/![image](https://github.com/user-attachments/assets/d31f7df4-cf8a-482b-9b56-21148e1738c3)" alt="Probo Bot Interface" width="300" />
-    <img src="images/![Screenshot 2025-05-20 211544](https://github.com/user-attachments/assets/0f2bb490-7721-4cc5-945b-1018bdd394a4)" alt="Probo Bot Results" width="300" />
+    <img src="https://github.com/user-attachments/assets/d31f7df4-cf8a-482b-9b56-21148e1738c3" alt="Probo Bot Interface" width="300" />
+    <img src="https://github.com/user-attachments/assets/0f2bb490-7721-4cc5-945b-1018bdd394a4" alt="Probo Bot Results" width="300" />
   </div>
 </body>
 </html>
