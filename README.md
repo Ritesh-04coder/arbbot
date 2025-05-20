@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Probo Arbitrage Bot README</title>
 </head>
 <body>
   <h1>Probo Arbitrage Bot</h1>
@@ -106,3 +105,7 @@ cd &lt;repo-folder&gt;</code></pre>
   <p>MIT License</p>
 </body>
 </html>
+<img src="images/![image](https://github.com/user-attachments/assets/d31f7df4-cf8a-482b-9b56-21148e1738c3)
+" alt="Alt text" width="300" />
+<img src="images/![Screenshot 2025-05-20 211544](https://github.com/user-attachments/assets/0f2bb490-7721-4cc5-945b-1018bdd394a4)
+" alt="Alt text" width="300" />
