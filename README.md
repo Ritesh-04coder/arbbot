@@ -51,6 +51,7 @@
       box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     }
   </style>
+  <title>Probo Arbitrage Bot</title>
 </head>
 <body>
   <h1><span class="emoji-large">🤖💹</span> Probo Arbitrage Bot</h1>
