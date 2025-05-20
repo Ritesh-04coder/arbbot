@@ -3,55 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <style>
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-      line-height: 1.6;
-      max-width: 900px;
-      margin: 0 auto;
-      padding: 20px;
-      color: #333;
-    }
-    h1, h2, h3 {
-      color: #2c3e50;
-    }
-    pre {
-      background-color: #f5f7f9;
-      border-radius: 5px;
-      padding: 15px;
-      overflow-x: auto;
-    }
-    code {
-      font-family: 'Courier New', monospace;
-      background-color: #f0f0f0;
-      padding: 2px 4px;
-      border-radius: 3px;
-    }
-    pre code {
-      background-color: transparent;
-      padding: 0;
-    }
-    .emoji-large {
-      font-size: 1.5em;
-      vertical-align: middle;
-      margin-right: 8px;
-    }
-    .emoji-small {
-      margin-right: 5px;
-    }
-    .screenshots {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 15px;
-      margin: 20px 0;
-    }
-    .screenshots img {
-      border: 1px solid #ddd;
-      border-radius: 5px;
-      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    }
-  </style>
-  <title>Probo Arbitrage Bot</title>
+  <!-- External CSS or framework link can be added here -->
 </head>
 <body>
   <h1><span class="emoji-large">🤖💹</span> Probo Arbitrage Bot</h1>
